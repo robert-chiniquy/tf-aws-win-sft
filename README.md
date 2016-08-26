@@ -1,4 +1,4 @@
-# tf-aws-sft-win
+# tf-aws-win-sft
 Terraform to create a Windows Server r2012 node on AWS with ScaleFT Agent installed
 
 # Usage
